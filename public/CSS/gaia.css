@@ -1,84 +1,29 @@
-/*.item{
-  border:1px solid black;
-  padding: 20px;
-  width: 200px;
-}*/
-.col-md-3{
-  margin-bottom: 50px;
-  margin-right: 20px;
-}
-/*h3{
-  padding-bottom: 30px;
-}*/
+/*!
 
-.offset-1{
-  margin-right: 30px;
-  margin-left: 15px;
-}
+ =========================================================
+ * Gaia Bootstrap Template - v1.0.1
+ =========================================================
 
-#saleItems{
-  margin-left: 40px;
-  margin-top: 20px;
-}
+ * Product Page: https://www.creative-tim.com/product/gaia-bootstrap-template
+ * Copyright 2017 Creative Tim (http://www.creative-tim.com)
+ * Licensed under MIT (https://github.com/creativetimofficial/gaia-bootstrap-template/blob/master/LICENSE.md)
 
-.liShorten{
-  width: 100px;
-}
+ =========================================================
 
-.nav-horz{
-   float: right;
-  /*display: block;*/
-  margin-right: -1600px;
-   margin-bottom: 30px;
-   list-style-type: none;
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+ */
 
-}
-
-.zIndex{
-    z-index: 100;
-}
-
-ul{
-     list-style-type: none;
-
-}
-#greenDoorHeading{
-  /*font-family: 'Luckiest Guy', cursive;*/
-  margin-left: 59px;
-font-family: 'Audiowide', cursive;
-margin-bottom: 50px;
-}
-
-#output{
-  clear: both;
-  border:1px solid black;
-  padding: 30px 30px 30px 30px;
-}
-
-.left44{
-  margin-left: 44px;
-}
-
-#checkoutDiv{
-  display: none;
-  padding-bottom: 30px;
-  /*margin-left: 59px;*/
-}
-
-.pushLeft{
-  margin-right: -200px;
-}
-.nav-text{
-  font-size: 28px;
-  color: red;
-  margin-left: 25px;
-  margin-top: 75px;
-}
+/*      light colors         */
 html {
   font-size: 14px;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+  .show-text{
+    color: red
+    font-size:300;
+  }
+
 
 body {
   -moz-osx-font-smoothing: grayscale;
@@ -3699,11 +3644,6 @@ body {
     margin-bottom: 0;
   }
 
-  .show-text{
-    color: red
-    font-size:300;
-  }
-
   .media-post .author {
     width: 20%;
     float: none !important;
@@ -3820,151 +3760,3 @@ body {
     padding: 0;
   }
 }
-
-
-/*#artist-name{
-  margin: 40px 0 60px 150px;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
-  color: red;
-  font-size: 100px;
-}
-#text{
-  margin-left: 90px !important;
-}
-/* body{
-  background-color: #teal;
-} 
-.zay-background{
-  margin-top: 100px;
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    color: blue;
-    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-
-    /*background-color: #333333;
-}
-#zay-big-center{
-  margin: 0px -10px 50px 320px;
-  border-radius: 10px;
-  height: 1000px;
-  width: 950px;
-  padding-bottom: 20px;
-
-}  
-
-li {
-    float: left;
-    /*color: black;
-}
-
-li a {
-    display: inline;
-    color: black;
-    text-align: center;
-    padding: 16px;
-    text-decoration: none;
-    font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-
-}
-.bio-box{
-  max-width: 400px;
-  color: black;
-  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-  background-color: white;
-
-}
-#bio-box-span{
-  max-width: 100px;
-  color: black;
-  margin-top: 20px;
-}
-#photos{
-  margin: 20px 0 10px 50px;
-  background-color: white;
-}
-
-.photo-header{
-  margin-left: 105px;
-}
-.bio-size{
-  height: 140px;
-  width: auto;
-  margin-left: 100px;
-}
-.artist-info{
-  color: black;
-  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-  background-color: white;
-
-}
-.upcoming-shows{
-  color: black;
-  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
-  background-color: white;
-}
-#main-content-div{
-  margin-left: 150px;
-  background-color: white;
-}
-
-body {
-/*   background-color: #FF5A5A; 
-  height: 100%;
-  font-family: 'tradegothiclt-bold', sans-serif;
-}
-.social-media{
-  background-color: white;
-}
-.videos{
-  background-color: white;
-}*/
-/*h1 {
-  font-size: 5em;
-  color: white;
-  text-transform: uppercase;
-}
-
-span {
-  border-right: .05em solid;
-  animation: caret 1s steps(1) infinite;
-}
-
-@keyframes caret {
-  50% {
-    border-color: transparent;
-  }
-}*/
-/*li a:hover {
-    background-color: #111111;
-}*/
-
-/*.landing-nav ul a{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-.landing-nav li a{
-  display: inline-block;
-  float: left;
-}*/
-
-/*!
-
- =========================================================
- * Gaia Bootstrap Template - v1.0.1
- =========================================================
-
- * Product Page: https://www.creative-tim.com/product/gaia-bootstrap-template
- * Copyright 2017 Creative Tim (http://www.creative-tim.com)
- * Licensed under MIT (https://github.com/creativetimofficial/gaia-bootstrap-template/blob/master/LICENSE.md)
-
- =========================================================
-
- * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
- */
-
-/*      light colors         */
