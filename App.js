@@ -16,13 +16,13 @@ app.set('/views', __dirname + '/views/')
 
 app.get('/', (req, res) => {
     console.log('checking in from home!')
-    res.render('index.ejs');
+    res.render('../collection.ejs');
 })
 // res.sendFile(__dirname + '/index.html');
 
-app.get('/home', (req, res) => {
-    console.log('checking in from home!')
-    res.render('../home.ejs');
+app.get('/collection', (req, res) => {
+    console.log('checking in from collection!')
+    res.render('index.ejs');
     // res.sendFile('/fileName.html');
 })
 let port = process.env.PORT || 3001;
