@@ -1,2 +1,2 @@
 
-  start: node app
+  web: node app
