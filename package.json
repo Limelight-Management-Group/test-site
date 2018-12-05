@@ -24,10 +24,5 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "html": "^1.0.0"
-  },
-  "engines": {
-    "node": "6.3.0",
-    "start": "node app",
-    "start-dev": "nodemon app"
   }
 }
