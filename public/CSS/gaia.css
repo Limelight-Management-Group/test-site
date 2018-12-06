@@ -23,7 +23,14 @@ html {
     color: red
     font-size:300;
   }
+/* my custom pic sizes */
 
+#coco-pic{  
+  margin-left: 40px;
+  border-radius: 20px;
+  opacity: 0.2;
+
+}
 
 body {
   -moz-osx-font-smoothing: grayscale;
