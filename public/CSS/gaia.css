@@ -31,7 +31,10 @@ html {
   opacity: 0.9;
 
 }
-
+.homefont{
+  color: black;
+  font-size: 19px;
+}
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
